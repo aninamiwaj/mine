@@ -1,11 +1,13 @@
-         class hi()
+      class hi()# from o2
 
 
-         {
+         { #from o2
 
-   private2 static void main()
+  private2 static void main()
 
 
 
-         {
+         { # from o2
+
+
 
